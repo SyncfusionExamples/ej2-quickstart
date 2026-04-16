@@ -1,9 +1,22 @@
-# Syncfusion JavaScript (ES5) UI control in a quickstart application
+# Syncfusion JavaScript (ES5) Quickstart Application
 
-This `quickstart` application is configured with the Syncfusion JavaScript (ES5) Grid control in a simple HTML web application. To know more information, check out the getting started [documentation](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start/).
+The ej2-quickstart repository is designed to help developers quickly understand how to work with Syncfusion JavaScript (ES5) UI controls in a plain web application environment. This sample intentionally avoids modern frameworks, build tools, or transpilers, allowing developers to focus purely on how Syncfusion controls are initialized, configured, and rendered using standard HTML and JavaScript.
 
-> This application is configured with the Syncfusion JavaScript control resources of version `20.4.38`.
+## Features
+- Demonstrates the Syncfusion JavaScript (ES5) Grid control
+- Uses a simple HTML-based application
+- Includes pre-configured Syncfusion JavaScript resources
+- Helps developers get started with minimal setup
 
-## Run the application
+## Prerequisites
+To work with this application, you need:
+- A supported web browser
+  
+## Version Information
+This application is configured with Syncfusion JavaScript control resources version **20.4.38**.
 
-To run the application, open the `index.html` file in the web browser and it will render the Syncfusion JavaScript (ES5) Grid control.
+## Running the Application
+1. Clone or download this repository.
+2. Navigate to the **`CDN/quickstart`** directory.
+3. Open the **`index.html`** file in a web browser.
+4. The page will render the Syncfusion JavaScript (ES5) Grid control.
